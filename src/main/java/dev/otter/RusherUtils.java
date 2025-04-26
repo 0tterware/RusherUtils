@@ -28,7 +28,7 @@ public class RusherUtils extends Plugin {
 	
 	@Override
 	public void onUnload() {
-		this.getLogger().info("Unloaded GriefUtils");
+		this.getLogger().info("Unloaded RusherUtils");
 	}
 
 	private void register(Object o) {
